@@ -27,7 +27,7 @@ How about a straightforward, user-friendly app where you type in your location a
 4. API Integration (AWS, Google Cloud Platform, or Microsoft Azure for cloud deployment Apache or Nginx as web servers)
 
 ## Dependencies
-Mapping Services – 9 Days
-Data Collection – 12 Days
-Estimated Budget – Rs.20,000
+1.Mapping Services – 9 Days
+2.Data Collection – 12 Days
+3.Estimated Budget – Rs.20,000
 
